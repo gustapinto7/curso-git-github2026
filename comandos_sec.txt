@@ -1,4 +1,4 @@
-Esse arquivo contém comandos secundários do git
+Esse arquivo contem comandos secundarios do git
 
 ele fez isso 
 aqui
