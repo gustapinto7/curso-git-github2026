@@ -6,6 +6,8 @@ Além disso vamos trabalhar com gitflow ao final do curso e visual studio code.
 
 Confira tudo o que temos no nosso youtube. é grátis.
 
+Se liga nisso aqui, para alterar a branch
+
 \## Fluxo de trabalho git local
 
 1 - git checktou -b nova branch
